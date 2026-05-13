@@ -210,3 +210,11 @@ models/
 # Generated data
 cleaned_data/
 internal_system/data_generation/data/
+# build outputs
+x64/
+Debug/
+Release/
+*.exe
+*.log
+*.tlog
+*.recipe
