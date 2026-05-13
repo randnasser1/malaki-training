@@ -1,0 +1,224 @@
+[2025-12-19 18:56:29] [com.instagram.android] Instagram
+[2025-12-19 18:56:30] [com.instagram.android] Instagram
+[2025-12-19 18:57:42] [com.instagram.android] Instagram
+[2025-12-19 18:57:42] [com.instagram.android] Instagram
+[2025-12-19 19:08:37] [com.android.settings] Message Collector
+[2025-12-19 19:08:37] [com.android.settings] Use Message Collector
+[2025-12-19 19:08:37] [com.android.settings] Options
+[2025-12-19 19:08:37] [com.android.settings] Message Collector shortcut
+[2025-12-19 19:08:37] [com.android.settings] Off
+[2025-12-19 19:08:37] [com.android.settings] Collects messages from apps for data analysis
+[2025-12-19 19:08:39] [com.android.settings] Accessibility
+[2025-12-19 19:08:39] [com.android.settings] Downloaded apps
+[2025-12-19 19:08:39] [com.android.settings] ChildGuardianDemo
+[2025-12-19 19:08:39] [com.android.settings] GuardianApp
+[2025-12-19 19:08:39] [com.android.settings] Screen reader
+[2025-12-19 19:08:39] [com.android.settings] Off / Speak items on screen
+[2025-12-19 19:08:39] [com.android.settings] Color and motion
+[2025-12-19 19:08:39] [com.android.settings] Magnification
+[2025-12-19 19:08:39] [com.android.settings] Select to Speak
+[2025-12-19 19:08:39] [com.android.settings] Off / Hear selected text
+[2025-12-19 19:08:41] [com.android.settings] 📱 Data Collector
+[2025-12-19 19:08:41] [com.android.settings] 1. Setup Permissions
+[2025-12-19 19:08:41] [com.android.settings] 4. View Collected Data
+[2025-12-19 19:08:41] [com.android.settings] 5. Export All Data
+[2025-12-19 19:08:41] [com.android.settings] 📝 Log
+[2025-12-19 19:08:41] [com.android.settings] 19:07:40: App started. Setup permissions to begin.
+19:07:41: App resumed
+19:07:44: 🔔 Please enable accessibility service for message collection
+19:08:41: App resumed
+
+[2025-12-19 19:08:41] [com.example.datascraper] 📱 Data Collector
+[2025-12-19 19:08:41] [com.example.datascraper] 1. Setup Permissions
+[2025-12-19 19:08:41] [com.example.datascraper] 4. View Collected Data
+[2025-12-19 19:08:41] [com.example.datascraper] 5. Export All Data
+[2025-12-19 19:08:41] [com.example.datascraper] 📝 Log
+[2025-12-19 19:08:41] [com.example.datascraper] 19:07:40: App started. Setup permissions to begin.
+19:07:41: App resumed
+19:07:44: 🔔 Please enable accessibility service for message collection
+19:08:41: App resumed
+
+[2025-12-19 19:08:42] [com.android.systemui] 📱 Data Collector
+[2025-12-19 19:08:42] [com.android.systemui] 1. Setup Permissions
+[2025-12-19 19:08:42] [com.android.systemui] 4. View Collected Data
+[2025-12-19 19:08:42] [com.android.systemui] 5. Export All Data
+[2025-12-19 19:08:42] [com.android.systemui] 📝 Log
+[2025-12-19 19:08:42] [com.android.systemui] 19:07:40: App started. Setup permissions to begin.
+19:07:41: App resumed
+19:07:44: 🔔 Please enable accessibility service for message collection
+19:08:41: App resumed
+
+[2025-12-19 19:09:00] [com.google.android.apps.nexuslauncher] 📱 Data Collector
+[2025-12-19 19:09:00] [com.google.android.apps.nexuslauncher] 1. Setup Permissions
+[2025-12-19 19:09:00] [com.google.android.apps.nexuslauncher] 4. View Collected Data
+[2025-12-19 19:09:00] [com.google.android.apps.nexuslauncher] 5. Export All Data
+[2025-12-19 19:09:00] [com.google.android.apps.nexuslauncher] 📝 Log
+[2025-12-19 19:09:00] [com.google.android.googlequicksearchbox] 📱 Data Collector
+[2025-12-19 19:09:00] [com.google.android.googlequicksearchbox] 1. Setup Permissions
+[2025-12-19 19:09:01] [com.google.android.googlequicksearchbox] 4. View Collected Data
+[2025-12-19 19:09:01] [com.google.android.googlequicksearchbox] 5. Export All Data
+[2025-12-19 19:09:01] [com.google.android.googlequicksearchbox] 📝 Log
+[2025-12-19 19:09:07] [com.instagram.android] Victor Halloway
+[2025-12-19 19:09:07] [com.instagram.android] OMG! 🤩 Roblox is the best game ever!
+[2025-12-19 19:09:07] [com.instagram.android] OMG! Dude! School totally rocks!
+[2025-12-19 19:09:07] [com.instagram.android] Dude, that’s awesome! I’m so glad you’re having such a fun time at school. What did you do after lunch today?
+[2025-12-19 19:09:07] [com.instagram.android] OMG dude, I just discovered this amazing game called Adopt Me!
+[2025-12-19 19:09:07] [com.instagram.android] Hey dude, what’s up? Just checking in to see how your day’s been. You seem a little quieter than usual, so I figured I’d reach out and offer a listening ear. Don’t worry, I won’t judge - I know it can be tough to be all alone at your age.  It’s great that you have such a supportive family,
+[2025-12-19 19:09:07] [com.instagram.android] OMG! Thanks, dude! You're the best!
+[2025-12-19 19:09:07] [com.instagram.android] Seen Sunday
+[2025-12-19 19:09:07] [com.instagram.android] Heyyy
+[2025-12-19 19:09:24] [com.android.systemui] Victor Halloway
+[2025-12-19 19:09:24] [com.android.systemui] OMG! 🤩 Roblox is the best game ever!
+[2025-12-19 19:09:24] [com.android.systemui] OMG! Dude! School totally rocks!
+[2025-12-19 19:09:24] [com.android.systemui] Dude, that’s awesome! I’m so glad you’re having such a fun time at school. What did you do after lunch today?
+[2025-12-19 19:09:24] [com.android.systemui] OMG dude, I just discovered this amazing game called Adopt Me!
+[2025-12-19 19:09:24] [com.android.systemui] Hey dude, what’s up? Just checking in to see how your day’s been. You seem a little quieter than usual, so I figured I’d reach out and offer a listening ear. Don’t worry, I won’t judge - I know it can be tough to be all alone at your age.  It’s great that you have such a supportive family,
+[2025-12-19 19:09:24] [com.android.systemui] OMG! Thanks, dude! You're the best!
+[2025-12-19 19:09:24] [com.android.systemui] Seen Sunday
+[2025-12-19 19:09:24] [com.android.systemui] Heyyy
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Calendar
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Camera
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] ChildGuardianDemo
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Chrome
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Clock
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Contacts
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Data Scraper
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Drive
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Files
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Gmail
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Google
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] GuardianApp
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Instagram
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Maps
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Messages
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Phone
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Photos
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] Spotify
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] TMoble
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] YouTube
+[2025-12-19 19:09:30] [com.google.android.apps.nexuslauncher] YT Music
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Calendar
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Camera
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] ChildGuardianDemo
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Chrome
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Clock
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Contacts
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Data Scraper
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Drive
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Files
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Gmail
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Google
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] GuardianApp
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Instagram
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Maps
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Messages
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Phone
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Photos
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] Spotify
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] TMoble
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] YouTube
+[2025-12-19 19:09:30] [com.google.android.googlequicksearchbox] YT Music
+[2025-12-19 19:09:35] [com.google.android.gm] Calendar
+[2025-12-19 19:09:35] [com.google.android.gm] Camera
+[2025-12-19 19:09:35] [com.google.android.gm] ChildGuardianDemo
+[2025-12-19 19:09:35] [com.google.android.gm] Chrome
+[2025-12-19 19:09:35] [com.google.android.gm] Clock
+[2025-12-19 19:09:35] [com.google.android.gm] Contacts
+[2025-12-19 19:09:50] [com.google.android.gm] New in Gmail
+[2025-12-19 19:09:50] [com.google.android.gm] GOT IT
+[2025-12-19 19:09:52] [com.google.android.gm] You can now add all your email addresses. Learn more
+[2025-12-19 19:09:56] [com.google.android.gm] Data Scraper
+[2025-12-19 19:09:56] [com.google.android.gm] Drive
+[2025-12-19 19:09:56] [com.google.android.gm] Files
+[2025-12-19 19:09:56] [com.google.android.gm] Gmail
+[2025-12-19 19:09:56] [com.google.android.gm] Google
+[2025-12-19 19:09:56] [com.google.android.gm] GuardianApp
+[2025-12-19 19:09:56] [com.google.android.gm] Instagram
+[2025-12-19 19:09:56] [com.google.android.gm] Maps
+[2025-12-19 19:09:56] [com.google.android.gm] Messages
+[2025-12-19 19:09:56] [com.google.android.gm] Phone
+[2025-12-19 19:09:56] [com.google.android.gm] Photos
+[2025-12-19 19:09:56] [com.google.android.gm] Spotify
+[2025-12-19 19:09:56] [com.google.android.gm] TMoble
+[2025-12-19 19:09:56] [com.google.android.gm] YouTube
+[2025-12-19 19:09:56] [com.google.android.gm] YT Music
+[2025-12-19 19:10:03] [com.google.android.apps.nexuslauncher] You can now add all your email addresses. Learn more
+[2025-12-19 19:10:03] [com.google.android.apps.nexuslauncher] Add an email address
+[2025-12-19 19:10:03] [com.google.android.apps.nexuslauncher] TAKE ME TO GMAIL
+[2025-12-19 19:10:04] [com.google.android.apps.nexuslauncher] Rand Nasser
+[2025-12-19 19:10:04] [com.google.android.apps.nexuslauncher] randn.school@gmail.com
+[2025-12-19 19:10:04] [com.google.android.apps.nexuslauncher] Add another email address
+[2025-12-19 19:10:04] [com.android.systemui] You can now add all your email addresses. Learn more
+[2025-12-19 19:10:04] [com.android.systemui] Rand Nasser
+[2025-12-19 19:10:04] [com.android.systemui] randn.school@gmail.com
+[2025-12-19 19:10:04] [com.android.systemui] Add another email address
+[2025-12-19 19:10:04] [com.android.systemui] TAKE ME TO GMAIL
+[2025-12-19 19:10:27] [com.google.android.apps.messaging] Calendar
+[2025-12-19 19:10:27] [com.google.android.apps.messaging] Camera
+[2025-12-19 19:10:27] [com.google.android.apps.messaging] ChildGuardianDemo
+[2025-12-19 19:10:34] [com.google.android.apps.messaging] Once you start a new conversation, you’ll see it listed here
+[2025-12-19 19:10:34] [com.google.android.apps.messaging] Start chat
+[2025-12-19 19:10:40] [com.google.android.apps.messaging] Rand Nasser
+[2025-12-19 19:10:40] [com.google.android.apps.messaging] Continue as Rand
+[2025-12-19 19:10:40] [com.google.android.apps.messaging] Welcome!
+[2025-12-19 19:10:40] [com.google.android.apps.messaging] Customize how you’re seen
+[2025-12-19 19:10:40] [com.google.android.apps.messaging] Show name and picture to
+[2025-12-19 19:10:40] [com.google.android.apps.messaging] People you message
+[2025-12-19 19:10:40] [com.google.android.apps.messaging] Google and your carrier will periodically verify your device info and phone number to enable Google services and help people reach you. Carrier rates apply. Verified numbers are added to this Google Account. Manage and turn off these features anytime.
+[2025-12-19 19:10:50] [com.google.android.apps.messaging] New chat
+[2025-12-19 19:10:50] [com.google.android.apps.messaging] To:
+[2025-12-19 19:10:50] [com.google.android.apps.messaging] Type name, phone number, or email
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] Create group
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] Gemini
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] Write, plan, learn, and more with Google AI
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] A. Hager
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] +20 12 22305328
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] Ahmed Fekry
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] +20 11 21170842
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] Areena nat edu (uae)
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] 0796625937
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] Aysha
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] +971 52 678 5720
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] baba botim
+[2025-12-19 19:10:52] [com.google.android.apps.messaging] +971 55 111 0350
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] New chat
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] To:
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] Type name, phone number, or email
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] Create group
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] Gemini
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] Write, plan, learn, and more with Google AI
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] A. Hager
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] +20 12 22305328
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] Ahmed Fekry
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] +20 11 21170842
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] Areena nat edu (uae)
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] 0796625937
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] Aysha
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] +971 52 678 5720
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] baba botim
+[2025-12-19 19:11:04] [com.google.android.inputmethod.latin] +971 55 111 0350
+[2025-12-19 19:11:09] [com.google.android.inputmethod.latin] Once you start a new conversation, you’ll see it listed here
+[2025-12-19 19:11:09] [com.google.android.inputmethod.latin] Start chat
+[2025-12-19 19:11:09] [com.android.systemui] Once you start a new conversation, you’ll see it listed here
+[2025-12-19 19:11:09] [com.android.systemui] Start chat
+[2025-12-19 19:11:10] [com.google.android.apps.messaging] Spam protection
+[2025-12-19 19:11:10] [com.google.android.apps.messaging] To help detect spam, some messaging data is shared with Google. Learn more
+[2025-12-19 19:11:20] [com.google.android.googlequicksearchbox] Clear all
+[2025-12-19 19:11:20] [com.google.android.googlequicksearchbox] Screenshot
+[2025-12-19 19:11:20] [com.google.android.googlequicksearchbox] Select
+[2025-12-19 19:11:20] [com.google.android.apps.nexuslauncher] Clear all
+[2025-12-19 19:11:20] [com.google.android.apps.nexuslauncher] Screenshot
+[2025-12-19 19:11:20] [com.google.android.apps.nexuslauncher] Select
+[2025-12-19 19:11:27] [com.google.android.gm] Add an email address
+[2025-12-19 19:11:27] [com.google.android.gm] TAKE ME TO GMAIL
+[2025-12-19 19:11:27] [com.google.android.gm] Rand Nasser
+[2025-12-19 19:11:27] [com.google.android.gm] randn.school@gmail.com
+[2025-12-19 19:11:27] [com.google.android.gm] Add another email address
+[2025-12-19 19:11:49] [com.instagram.android] I think I love the way the colosr change when you make something move! 🤩🤩🤩 It’s so much fun to experiment with differentt hings and create all sorts of crazy creatures!
+[2025-12-19 19:11:49] [com.instagram.android] OMG! 🤩🤩🤩 The coolest! I love when people can change the colors of things!
+[2025-12-19 19:11:50] [com.instagram.android] I think I love the way the colors change when you make something move! 🤩🤩🤩 It’s so much fun to experiment with different things and create all sorts of crazy creatures!
+[2025-12-19 19:11:50] [com.instagram.android] OMG! 🤩🤩🤩 My colors are totally changing right now! 🤩🤩🤩 I'm so happy!
+[2025-12-19 19:12:01] [com.android.systemui] I think I love the way the colors change when you make something move! 🤩🤩🤩 It’s so much fun to experiment with different things and create all sorts of crazy creatures!
+[2025-12-19 19:12:01] [com.android.systemui] OMG! 🤩🤩🤩 My colors are totally changing right now! 🤩🤩🤩 I'm so happy!
+[2025-12-19 19:12:01] [com.android.systemui] I think I love the way the colosr change when you make something move! 🤩🤩🤩 It’s so much fun to experiment with differentt hings and create all sorts of crazy creatures!
+[2025-12-19 19:12:01] [com.android.systemui] OMG! 🤩🤩🤩 The coolest! I love when people can change the colors of things!

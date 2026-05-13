@@ -1,0 +1,31 @@
+# Basic Python packages
+pandas>=2.0
+numpy>=1.24
+beautifulsoup4>=4.12
+lxml>=4.9
+html5lib>=1.1
+
+# NLP / text processing
+contractions>=0.1.72
+clean-text>=0.6.0
+ekphrasis>=0.5.4
+textacy>=0.12.0
+autocorrect>=2.6.0
+textblob>=0.17.1
+pyspellchecker>=0.7.4
+
+# Machine learning / transformers
+torch>=2.1.0
+transformers>=4.44.0
+datasets>=2.12.0
+scikit-learn>=1.2.2
+hdbscan>=0.8.30
+tqdm>=4.66.1
+
+# Topic modeling / embeddings
+bertopic>=0.14.0
+sentence-transformers>=2.2.2
+
+# PySpark
+pyspark>=3.5.1
+
